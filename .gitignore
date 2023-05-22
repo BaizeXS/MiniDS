@@ -360,5 +360,6 @@ Temporary Items
 !.gitsubmodules
 
 .cache
+.idea
 build
 Example
